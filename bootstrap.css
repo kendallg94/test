@@ -1,0 +1,56 @@
+/*!
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+body {
+    margin: 0 50px 0 50px;
+	background: #FAFAFA;
+	
+}
+h2 {
+	color: #971C1E; 
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
+	letter-spacing: 3px;
+	text-align: center;
+}
+
+p {
+	font-family:  Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	font-size: 100%;
+}
+
+logo {
+	margin: 0 auto;
+	display: block;
+	
+}
+
+container {
+	background-color: #FFFFFF;
+	width: 700px;
+	height: 500px;
+}
+
+hr {
+	color: #7C0000;
+	width: 10%;
+	height: .5px; 
+	padding: .20px;
+}
+
+ol {
+	margin: 0px 0px 0px 26%;
+	width: 600px;
+	list-style: circle;
+	text-align: left; 
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	font-size: 14px;
+}

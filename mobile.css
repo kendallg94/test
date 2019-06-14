@@ -1,0 +1,65 @@
+/*!
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
+/*max width*/
+@media only screen and (max-device-width : 736px) {
+
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+body {
+	background: #FAFAFA;
+	
+}
+h2 {
+	color: #971C1E; 
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
+	letter-spacing: 3px;
+	text-align: center;
+}
+
+logo {
+	margin: 0 auto;
+	display: block;
+	
+}
+
+container {
+	background-color: #FFFFFF;
+	width: 700px;
+	height: 500px;
+}
+	hr {
+	color: #7C0000;
+	background: #7C0000;
+	width: 50%;
+	border: 0; 
+	height: .75px; 
+
+}
+}
+
+@media (max-width: 736px) {
+	perksimg {
+	width: 100%;
+}
+
+ambassadorimg {
+	width: 100%;
+}
+
+clubimg {
+	width: 100%;
+}
+}
+
+
+
+
+
